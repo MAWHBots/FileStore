@@ -75,7 +75,7 @@ class Bot(Client):
 
         self.set_parse_mode(ParseMode.HTML)
         self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/weebs_support")
-        self.LOGGER(__name__).info(f""" \n\n """) 
+        self.LOGGER(__name__).info(f"""\n\n""") 
                                                    
                   
                                  
